@@ -19,7 +19,7 @@
 - Docker compose
 
 ### Client side
-test
+testing done
 
 - Simple structure project
 - Create react app
