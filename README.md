@@ -4,6 +4,7 @@
 
 ### Server side
 
+
 - Simple structure project
 - JWT auth with refresh token (made by description https://gist.github.com/zmts/802dc9c3510d79fd40f9dc38a12bccfc )
 - Rest api registration, authorization, restore and confirm restore
