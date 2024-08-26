@@ -16,7 +16,7 @@
 - Catched email to .eml files on dev mode
 - Error decorator
 - Handler error and logging
-- Docker compose
+- Docker compose (Used to write docker-compose.yanl)
 
 ### Client side
 testing done
